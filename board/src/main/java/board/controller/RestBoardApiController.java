@@ -18,7 +18,7 @@ import io.swagger.annotations.ApiParam;
 @Api(description = "게시판 REST API")
 @RestController
 public class RestBoardApiController {
-//
+////
 	
 	@Autowired
 	private BoardService boardService;
